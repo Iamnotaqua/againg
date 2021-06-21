@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="/index.css" />
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Dragon's Wagon</title>
+    <div class="header">
+      <h1>the Dragon's Wagon</h1>
+    </div>
+  </head>
+
+  <body>
+    <h1>
+      <div class="col-12">This is the offical server of The Dragon's Wagon</div>
+      <!-- 25% -->
+    </h1>
+    <div class="row">
+      <div class="col-3 menu">
+        <ul>
+          <li><a href="https://discord.gg/gx5BK" target="_blank">How to play D&D</a></li>
+          <li><a href="https://discord.gg/gx5BK" target="_blank">How to create a charachter</a></li>
+          <li><a href="https://discord.gg/gx5BK" target="_blank">Join our server to play D&D</a></li>
+        </ul>
+      </div>
+    
+  </body>
+</html>
